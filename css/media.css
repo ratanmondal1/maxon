@@ -1,0 +1,463 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+body {
+padding-top: 76px;
+}
+/* header start */
+.c-h-img{
+width: 80%;
+}
+/* bannar start */
+.bannar-img {
+margin-top: 30px;
+}
+.bannar-img img{
+padding: 0 20px;
+}
+.bannar-text {
+margin-top: 60px;
+text-align: center;
+}
+.bb-ob {
+font-size: 30px;
+
+}
+.cdy {
+margin: 40px 10px 50px 10px !important;
+}
+/* about start */
+.about {
+padding: 100px 0 50px;
+}
+.custom-h3 {
+font-size: 20px;
+bottom: 50px;
+left: 172px;
+}
+.about-bg-img {
+margin: 0px;
+width: 100%;
+}
+.about-img1 {
+
+top: 50px;
+
+}
+.about-img2 {
+
+top: -50px;
+right: 20px;
+
+}
+.about-text {
+margin-top: 60px;
+padding: 0 0px;
+text-align: center;
+}
+.about-bb-ob {
+margin-right: 0px;
+}
+.about-h5 {
+
+margin-right: 0px;
+}
+/* features start */
+.f-title {
+font-size: 25px;
+margin-top: 10px;
+}
+.features-Box {
+margin-bottom: 25px;
+padding: 40px 40px;
+}
+/* works start */
+.works-box-fluid h2 {
+font-size: 25px;
+}
+.features-header {
+margin-bottom: 50px;
+text-align: center;
+}
+/* fun section start */
+.fun-section {
+padding: 60px 0;
+}
+.single-fun {
+margin-bottom: 40px;
+text-align: center;
+}
+.single-fun p {
+font-size: 22px;
+}
+.single-fun p span{
+font-size: 40px;
+}
+/* testimonial start */
+.single-test {
+margin-left: 0px;
+text-align: center;
+}
+.single-test p {
+padding-right: 0px;
+}
+/* team start */
+.single-member {
+margin-top: 30px;
+}
+/* nows start */
+.post-item {
+margin-top: 30px;
+}
+/* contact us */
+.contact-us-h2 {
+padding: 0 0px 0 0;
+}
+/* partners start */
+.partners-logo a img {
+padding: 0px 55px 40px;
+}
+}
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+/* bannar start */
+body {
+padding-top: 76px;
+}
+.bannar-img {
+margin-top: 40px;
+}
+.bannar-img img{
+padding: 0 80px;
+}
+.bannar-text {
+margin-top: 80px;
+text-align: center;
+}
+.bb-ob {
+font-size: 40px;
+
+}
+.cdy {
+margin: 40px 20px 50px 20px !important;
+}
+/* about start */
+.about {
+padding: 100px 0 50px;
+}
+.custom-h3 {
+
+padding: 0 0px 0 320px;
+bottom: 10px;
+}
+.about-bg-img {
+margin: 0px;
+width: 80%;
+}
+.about-img1 {
+
+top: 50px;
+
+}
+.about-img2 {
+
+top: -50px;
+right: 20px;
+
+}
+.about-text {
+margin-top: 60px;
+padding: 0 40px;
+text-align: center;
+}
+.about-bb-ob {
+margin-right: 0px;
+}
+.about-h5 {
+
+margin-right: 0px;
+}
+/* features start */
+.f-title {
+font-size: 30px;
+}
+.features-Box {
+padding: 40px 10px;
+margin-bottom: 25px;
+}
+/* works staert */
+.works-box-fluid {
+float: left;
+}
+/* fun section start */
+.fun-section {
+padding: 60px 0;
+}
+.single-fun {
+margin-bottom: 40px;
+}
+.single-fun p {
+font-size: 20px;
+}
+.single-fun p span{
+font-size: 40px;
+}
+/* testimonial start */
+.single-test {
+margin-left: 0px;
+text-align: center;
+}
+.single-test p {
+padding-right: 0px;
+}
+/* team start */
+.single-member {
+margin-top: 30px;
+}
+/* nows start */
+.post-item {
+margin-top: 30px;
+}
+/* contact us */
+.features-header {
+margin-bottom: 40px;
+}
+/* partners start */
+.partners-logo a img {
+padding: 40px 35px;
+}
+/* footer start */
+.footer {
+padding: 70px 0;
+background-color: #162b45;
+}
+.singel-footer {
+margin-bottom: 60px;
+}
+}
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+body {
+padding-top: 76px;
+}
+
+/* bannar start */
+.bannar-text {
+margin-top: 80px;
+}
+.bb-ob {
+
+font-size: 40px;
+}
+.cdy {
+margin: 40px 0px 50px 0 !important;
+}
+/* about start */
+.about {
+padding: 50px 0;
+}
+.custom-h3 {
+
+bottom: 100px;
+left: 420px;
+}
+.about-text {
+margin-top: 20px;
+padding: 0 120px;
+text-align: center;
+}
+.about-bb-ob {
+margin-right: 0px;
+}
+.about-h5 {
+
+margin-right: 0px;
+}
+/* feataures start */
+.features-Box {
+margin-top: 25px;
+}
+/* works start */
+.works-box-fluid h2 {
+font-size: 20px;
+line-height: 30px;
+margin: 10px 0;
+}
+/* fun section start */
+.fun-section {
+padding: 60px 0;
+}
+.single-fun {
+margin-bottom: 40px;
+}
+.single-fun p {
+font-size: 25px;
+}
+/* testimonial start */
+.avatar{
+width: 20%;
+}
+.single-test p {
+padding-right: 0px;
+}
+.company-logo {
+margin-top: 20px
+}
+/* team start */
+.member-details h5 a {
+font-size: 20px;
+}
+.member-social a {
+padding: 0 5px;
+}
+/* news start */
+.post-content {
+padding: 35px 10px;
+}
+.post-content h5 a {
+font-size: 19px;
+}
+/* contact us */
+textarea.form-control {
+height: 140px;
+}
+.features-header {
+margin-bottom: 40px;
+}
+.f-title {
+font-size: 25px;
+}
+
+/* partners start */
+.partners-logo a img {
+padding: 40px 80px;
+}
+/* footer start */
+.footer {
+padding: 70px 0;
+background-color: #162b45;
+}
+.singel-footer {
+margin-bottom: 60px;
+}
+}
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+/* bannar start */
+.bannar-text {
+margin-top: 100px;
+}
+.bb-ob {
+
+font-size: 50px;
+}
+.cdy {
+margin: 40px 50px 50px 0 !important;
+}
+/* about start */
+.about {
+padding: 50px 0;
+}
+.about-bg-img {
+margin: 90px;
+width: 70%;
+}
+.about-bb-ob {
+font-size: 30px;
+margin-right: 100px;
+}
+.about-h5 {
+font-size: 18px;
+margin-right: 100px;
+}
+.cdy {
+margin-right: 60px;
+}
+.custom-h3 {
+bottom: 50px;
+}
+/* features start */
+.features-Box {
+padding: 40px 8px;
+
+}
+.f-title {
+
+font-size: 30px;
+
+}
+/* fun section */
+.single-fun p {
+font-size: 20px;
+}
+.single-fun p span {
+font-size: 50px;
+}
+/* testimonial start */
+.avatar{
+width: 20%;
+}
+.single-test p {
+padding-right: 0px;
+}
+.company-logo {
+margin-top: 20px
+}
+/* contact us */
+textarea.form-control {
+height: 140px;
+}
+/* partners start */
+.partners-logo a img {
+padding-right: 40px;
+}
+}
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+/* aboout start */
+.about {
+padding: 80px 0;
+}
+.about-bg-img {
+margin: 25px;
+}
+.about-img1 {
+
+top: 100px;
+
+}
+.about-img2 {
+top: 23px;
+right: 0px;
+width: 45%;
+}
+.custom-h3 {
+
+bottom: 40px;
+}
+/* features start */
+.f-title {
+font-size: 35px;
+}
+.features-Box {
+padding: 40px 20px;
+}
+/* testimonial start */
+.avatar{
+width: 20%;
+}
+.single-test p {
+padding-right: 0px;
+}
+.company-logo {
+margin-top: 20px
+}
+/* partners start */
+.partners-logo a img {
+padding-right: 90px;
+}
+}
+/* Extra Extra large devices (large desktops, 1400px and up) */
+@media (min-width: 1400px) {
+
+}
