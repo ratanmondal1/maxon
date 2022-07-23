@@ -96,6 +96,10 @@ margin-top: 80px;
 }
 /* bannar end */
 /* about start */
+.c-fluid{
+	padding-right: 0;
+	padding-left: 0
+}
 .about{
 padding: 100px 0;
 }
